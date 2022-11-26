@@ -1,0 +1,21 @@
+
+
+
+button{
+    background-color: green;
+}
+li{
+    display:inline;
+}
+
+.container{
+    width: 100%;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+.container h3{
+    width: 200px;
+    font-size: 20px;
+    height: 30px;
+}
